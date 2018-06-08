@@ -4,4 +4,4 @@
 
 You caught me at a bad time. This is still under construction. You came here though, so you at least deserve a gif of a kitten.
 
-![Meow](https://i.pinimg.com/originals/c6/52/b1/c652b110ce9854cef9ba399eed60417b.gif)
+![Meow](https://i.imgur.com/6t3cIZL.gif)
