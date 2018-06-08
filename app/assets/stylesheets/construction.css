@@ -1,0 +1,44 @@
+body {
+  background-image: url("background-image.jpg");
+  background-repeat: repeat;
+  background-size: 5px;
+}
+
+.caution-tape {
+  background-image: url("caution.jpeg");
+  background-repeat: repeat;
+  background-position: center;
+  height: 5vh;
+  position: relative;
+  top: 15rem;
+  width: 100%;
+}
+
+.construction {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  top: 9vh
+}
+
+.construction-card {
+  padding: 10px 10px 20px 10px;
+  border: 1px solid #BFBFBF;
+  background-color: white;
+  box-shadow: 10px 10px 5px #aaaaaa;
+}
+
+.rotate-right {
+  float: left;
+  -ms-transform: rotate(7deg);
+  -webkit-transform: rotate(7deg);
+  transform: rotate(7deg);
+}
+
+.construction p {
+  text-align: center;
+  font-size: 5rem;
+  font-family: 'Ubuntu'
+}
